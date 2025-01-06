@@ -1,6 +1,6 @@
 Privacy Policy
 
-This privacy policy applies to the   IQ_Brandx | اي كيو براندكس  app (hereby referred to as "Application") for mobile devices that was created by Waqty (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the   Waqty_provider | مقدم خدمة وقتي  app (hereby referred to as "Application") for mobile devices that was created by Waqty (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 
 Information Collection and Use
@@ -43,10 +43,12 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 
 Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 18.
+The Application is available for use by individuals of all ages. However, the Service Provider does not knowingly collect personally identifiable information from children under the age of 13.
 
+If the Service Provider becomes aware that a child under 13 has provided personal information through the Application, this information will be promptly deleted from the servers.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 18 years of age. In the case the Service Provider discover that a child under 18 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (ahmedkhattab492001@gmail.com) so that they will be able to take the necessary actions.
+If you are a parent or guardian and you believe your child has provided personal information, please contact the Service Provider at ahmedkhattab492001@gmail.com so that the necessary actions can be taken to ensure the child’s privacy.
+
 
 
 Security
